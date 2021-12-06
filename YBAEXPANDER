@@ -13,7 +13,7 @@ mouse.KeyDown:connect(function(key2)
 if key2 == bind2 then
  if not IsActive then
  IsActive = true
-   _G.HeadSize = 14
+   _G.HeadSize = 25
    _G.Disabled = true
 
 
